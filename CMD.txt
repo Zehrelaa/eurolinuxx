@@ -1,3 +1,54 @@
 // Basic Linux Commands // 
 
 cd/e/vagrantvms/centos/
+due to external interrupt.
+  1  dekstop
+    2  git
+    3  Desktop
+    4  Desktop git
+    5  pwd
+    6  choco
+    7   mkdir/f/vagrant-vms
+    8  mkdir /f/vagrant~vms
+    9  mkdir /f/vagrant -vms
+   10  mkdir /f/vagrant-vms
+   11  cd/f/vagrant-vms/
+   12  fsutil fsinfo drive
+   13  fsutil fsinfo drives
+   14  cd E:\
+   15  cd E:
+   16  pwd
+   17  mkdir vagrant vms
+   18  cd /f/vagrant vms
+   19  cd vagrant vms
+   20  pws
+   21  pwd
+   22  cd vagrant vms/
+   23  cd vagrant/
+   24  cd vagrantvms/
+   25  cd E:
+   26  mkdir vagrant
+   27  mkdir vagrant
+   28  cd vagrant/
+   29  pd
+   30  pwd
+   31  mkdir centos
+   32  mkdir ubuntu
+   33  ls
+   34  cleR
+   35  CLEr
+   36  clear
+   37  ls
+   38  cd centos
+   39  pwd
+   40  cd /e/vagrant/centos
+   41  cd centos/
+   42  clear
+   43  ls
+   44  vagrant init eurolinix-vagrant/centos-stream-9
+   45  ls
+   46  cat Vagrantfile
+   47  pwd
+   48  cd /e/vagrantvms
+   49  pwd
+   50  ls
