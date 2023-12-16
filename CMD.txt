@@ -51,4 +51,3 @@ due to external interrupt.
    47  pwd
    48  cd /e/vagrantvms
    49  pwd
-   50  ls
